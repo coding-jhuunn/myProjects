@@ -17,6 +17,7 @@
 
 4. ### _**React TS Catch API Second Project**_
    **Tools Used:** React, Tailwind CSS & TS
+   
    **Feature:** fetch the api + list of Names with json file 
 
    **Link:** https://github.com/coding-jhuunn/myImageSlider
