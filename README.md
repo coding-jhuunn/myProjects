@@ -10,17 +10,12 @@
 
    **Link:** https://github.com/coding-jhuunn/myHelpCenterPage
 
-4. ### _**Palindrome Checker**_
+3. ### _**Palindrome Checker**_
    **Tools Used:** HTML, Pure CSS , JS and TS
    
    **Link:** https://github.com/coding-jhuunn/myPalindromeChecker
 
-3. ### _**React TS Catch API Project**_
-   **Tools Used:** React, Tailwind CSS & TS
-
-   **Link:** https://github.com/coding-jhuunn/myFetchApiProj
-
-5. ### _**React TS Catch API Second Project**_
+4. ### _**React TS Catch API Second Project**_
    **Tools Used:** React, Tailwind CSS & TS
    
    **Feature:** fetch the api + list of Names with json file 
