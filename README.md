@@ -5,14 +5,9 @@
 
 2. [Help Center Page ( Cloning Website Design )](https://github.com/coding-jhuunn/myHelpCenterPage)
 
-3. [Palindrome Checker)](https://github.com/coding-jhuunn/myPalindromeChecker)
+3. [Palindrome Checker](https://github.com/coding-jhuunn/myPalindromeChecker)
    
 4. [myOnlinePortfolio](https://github.com/coding-jhuunn/myOnlineProfile)
 
-5. ### _**React TS Catch API Second Project**_
-   **Tools Used:** React, Tailwind CSS & TS
-   
-   **Feature:** fetch the api + list of Names with json file 
-
-   **Link:** https://github.com/coding-jhuunn/myImageSlider
+5. [myImageSlider-aReactCatchingApiProj](https://github.com/coding-jhuunn/myImageSlider)
 
