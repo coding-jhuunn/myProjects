@@ -1,9 +1,8 @@
 # myFrontEnd-Projects
 
-1. ### _**Marvel Fan Page Project**_
-   **Tools Used:** HTML & CSS
 
-   **Link:** https://github.com/coding-jhuunn/MarvelFanPage-HTML-CSSProj
+1. [myMarvelFanPage](https://github.com/coding-jhuunn/myMarvelFanPage)
+
 
 2. ### _**Help Center Page ( Clone )**_
    **Tools Used:** HTML, CSS & Js
