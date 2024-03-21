@@ -5,10 +5,7 @@
 
 2. [Help Center Page ( Cloning Website Design )](https://github.com/coding-jhuunn/myHelpCenterPage)
 
-3. ### _**Palindrome Checker**_
-   **Tools Used:** HTML, Pure CSS , JS and TS
-   
-   **Link:** https://github.com/coding-jhuunn/myPalindromeChecker
+3. [Palindrome Checker)](https://github.com/coding-jhuunn/myPalindromeChecker)
    
 4. ### _**React Online Profile**_
    **Tools Used:** React and Pure CSS 
