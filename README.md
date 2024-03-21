@@ -1,4 +1,4 @@
-# myFrontEnd-Projects
+# myProjects
 
 
 1. [myMarvelFanPage](https://github.com/coding-jhuunn/myMarvelFanPage)
