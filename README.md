@@ -7,10 +7,7 @@
 
 3. [Palindrome Checker)](https://github.com/coding-jhuunn/myPalindromeChecker)
    
-4. ### _**React Online Profile**_
-   **Tools Used:** React and Pure CSS 
-   
-   **Link:** https://github.com/coding-jhuunn/myOnlineProfile
+4. [myOnlinePortfolio](https://github.com/coding-jhuunn/myOnlineProfile)
 
 5. ### _**React TS Catch API Second Project**_
    **Tools Used:** React, Tailwind CSS & TS
