@@ -3,11 +3,7 @@
 
 1. [myMarvelFanPage](https://github.com/coding-jhuunn/myMarvelFanPage)
 
-
-2. ### _**Help Center Page ( Clone )**_
-   **Tools Used:** HTML, CSS & Js
-
-   **Link:** https://github.com/coding-jhuunn/myHelpCenterPage
+2. [Help Center Page ( Cloning Website Design )](https://github.com/coding-jhuunn/myHelpCenterPage)
 
 3. ### _**Palindrome Checker**_
    **Tools Used:** HTML, Pure CSS , JS and TS
