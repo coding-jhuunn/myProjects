@@ -9,9 +9,7 @@
 
 4. [Sign Up Form by Frontend Mentor](https://github.com/coding-jhuunn/mySignupForm/tree/master)
 
-5. [Palindrome Checker](https://github.com/coding-jhuunn/myPalindromeChecker)
-   
-6. [myOnlinePortfolio](https://github.com/coding-jhuunn/myOnlineProfile)
+5. [myOnlinePortfolio](https://github.com/coding-jhuunn/myOnlineProfile)
 
-7. [myImageSlider-aReactCatchingApiProj](https://github.com/coding-jhuunn/myImageSlider)
+6. [myImageSlider-aReactCatchingApiProj](https://github.com/coding-jhuunn/myImageSlider)
 
