@@ -11,7 +11,7 @@
 
 5. [myOnlinePortfolio](https://github.com/coding-jhuunn/myOnlineProfile)
 
-6. [myImageSlider-aReactCatchingApiProj](https://github.com/coding-jhuunn/myImageSlider)
+6. [myImageSlider](https://github.com/coding-jhuunn/myImageSlider)
 
 7. [Hang-game with Vue JS](https://github.com/coding-jhuunn/hangman-vuejs)
 
